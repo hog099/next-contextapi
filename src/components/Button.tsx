@@ -19,7 +19,7 @@ const Button: React.FC = () => {
                 <FontAwesomeIcon
                     className={styles.icon}
                     color={theme === 'light-mode' ? styles.darkMode : styles.lightMode}
-                    icon={theme === "light-mode" ? faSun : faMoon}
+                    icon={theme === "light-mode" ? faMoon : faSun}
                 />
                 {theme === "light-mode" ? 'Tema Escuro' : 'Tema Claro'}
             </button>

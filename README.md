@@ -16,7 +16,9 @@
 <br>
 
   
- 
+ <h2 align="center">
+  <img alt="cover-alt" src=".github/cover.png" />
+</h2>
 
 ## 💻 Projeto
 
