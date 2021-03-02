@@ -1,24 +1,16 @@
+ 
+<h2  align="center">
+<img  alt="cover-alt"  src=".github/cover.png" />
+</h2>
 
 <p  align="center">
-
 <a  href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
 <a  href="#-techs">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
 <a  href="#-start">Código</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
 <a  href="#-build">Build</a>
-
 <a  href="#-license">License</a>
-
 </p>
-
-<br>
-
-  
- <h2 align="center">
-  <img alt="cover-alt" src=".github/cover.png" />
-</h2>
+   
 
 ## 💻 Projeto
 
